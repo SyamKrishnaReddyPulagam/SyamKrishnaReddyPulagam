@@ -1,4 +1,4 @@
-![MasterHead](https://blog.tuf.edu.pk/wp-content/uploads/2021/07/AI.jpg)
+
 <h1 align="center">Hi 👋, I'm Syam Krishna Reddy Pulagam</h1>
 <h3 align="center">I'm a passionate data engineer with a strong interest in transforming raw data into meaningful insights. I enjoy working with large datasets, designing efficient data pipelines, and implementing robust ETL processes. With a deep understanding of data warehousing and data modeling, I strive to optimize data infrastructure for improved analytics and reporting. Additionally, I stay updated with the latest technologies and best practices in the field of data engineering to deliver scalable and efficient solutions.</h3>
 
