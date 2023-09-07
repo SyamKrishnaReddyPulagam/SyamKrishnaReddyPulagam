@@ -15,6 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/syam krishna reddy pulagam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syam krishna reddy pulagam" height="30" width="40" /></a>
 <a href="https://kaggle.com/syam krishna reddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="syam krishna reddy" height="30" width="40" /></a>
+<a href="https://instagram.com/syam_krishna123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="syam_krishna123" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/syam krishna reddy pulagam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="syam krishna reddy pulagam" height="30" width="40" /></a>
 </p>
 
