@@ -1,9 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-
 <h1 align="center">Hi 👋, I'm Syam Krishna Reddy Pulagam</h1>
 <h3 align="center">I'm a passionate data engineer with a strong interest in transforming raw data into meaningful insights. I enjoy working with large datasets, designing efficient data pipelines, and implementing robust ETL processes. With a deep understanding of data warehousing and data modeling, I strive to optimize data infrastructure for improved analytics and reporting. Additionally, I stay updated with the latest technologies and best practices in the field of data engineering to deliver scalable and efficient solutions.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://abhinav-iitkgp2.medium.com/how-to-start-your-career-in-data-science-8d93627c0732">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*Urc28sbnORGOW5oyohQ06g.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syamkrishnareddypulagam&label=Profile%20views&color=0e75b6&style=flat" alt="syamkrishnareddypulagam" /> </p>
 
